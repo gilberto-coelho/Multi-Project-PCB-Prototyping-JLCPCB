@@ -140,7 +140,7 @@ The six circuits were arranged within a single PCB layout, considering component
 
 The design included different types of electronic components, including surface-mount devices (SMD) and larger through-hole components.
 
-*Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+*NOTE: Component values and implementation details have been intentionally blurred to protect proprietary design information.*
 
 **Electronic Circuit Overview**
 
@@ -231,7 +231,7 @@ The board area of 600 cm² was selected to accommodate the electronic designs wh
 
 The design process considered the integration of multiple independent circuits, component placement, electrical routing, and mechanical arrangement.
 
-*Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+*NOTE: Component values and implementation details have been intentionally blurred to protect proprietary design information.*
 
 **Electronic Circuit Overview**
 

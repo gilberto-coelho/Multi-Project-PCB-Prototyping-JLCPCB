@@ -146,7 +146,7 @@ The design included different types of electronic components, including surface-
 
 <img width="721" height="661" alt="Projeto 1 A desfoque" src="https://github.com/user-attachments/assets/5d6aa666-3eb2-43e5-aa54-3f3c9cf4faf8" />
 
-*Selected circuit documentation.
+*Selected circuit documentation.*
 
 <br>
 

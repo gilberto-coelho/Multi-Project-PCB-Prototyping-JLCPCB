@@ -144,18 +144,18 @@ The design included different types of electronic components, including surface-
 
 <img width="721" height="661" alt="Projeto 1 A desfoque" src="https://github.com/user-attachments/assets/5d6aa666-3eb2-43e5-aa54-3f3c9cf4faf8" />
 
-<br>
-
 *Selected circuit documentation. Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+
+<br>
 
 **2D PCB Layout**
 
 <img width="634" height="741" alt="Projeto 1 B desfoque" src="https://github.com/user-attachments/assets/24f39238-bc3e-467a-99bc-a4201eed3bb1" />
 
-<br>
-
 *PCB layout showing the arrangement of six independent electronic projects within a single manufacturing board.*
 *Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+
+<br>
 
 **3D PCB Visualization**
 
@@ -163,7 +163,6 @@ The design included different types of electronic components, including surface-
 
 *Three-dimensional visualization of the PCB, including electronic components and their physical arrangement.*
 
-<br>
 <br>
 
 **Manufactured PCB**

@@ -140,11 +140,13 @@ The six circuits were arranged within a single PCB layout, considering component
 
 The design included different types of electronic components, including surface-mount devices (SMD) and larger through-hole components.
 
+*Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+
 **Electronic Circuit Overview**
 
 <img width="721" height="661" alt="Projeto 1 A desfoque" src="https://github.com/user-attachments/assets/5d6aa666-3eb2-43e5-aa54-3f3c9cf4faf8" />
 
-*Selected circuit documentation. Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+*Selected circuit documentation.
 
 <br>
 
@@ -153,7 +155,6 @@ The design included different types of electronic components, including surface-
 <img width="634" height="741" alt="Projeto 1 B desfoque" src="https://github.com/user-attachments/assets/24f39238-bc3e-467a-99bc-a4201eed3bb1" />
 
 *PCB layout showing the arrangement of six independent electronic projects within a single manufacturing board.*
-*Component values and implementation details have been intentionally blurred to protect proprietary design information.*
 
 <br>
 
@@ -230,11 +231,13 @@ The board area of 600 cm² was selected to accommodate the electronic designs wh
 
 The design process considered the integration of multiple independent circuits, component placement, electrical routing, and mechanical arrangement.
 
+*Component values and implementation details have been intentionally blurred to protect proprietary design information.*
+
 **Electronic Circuit Overview**
 
 <img width="649" height="814" alt="Projeto 2 A desfoque" src="https://github.com/user-attachments/assets/bc4fda57-9dc4-4802-b612-fdb0b7cd127f" />
 
-*Selected electronic design documentation, with proprietary circuit details intentionally obscured.*
+*Selected electronic design documentation.*
 
 <br>
 
